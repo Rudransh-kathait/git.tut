@@ -2,4 +2,4 @@ def greet():
     print("hi")
     print("rudi")
 
-greet()
+# greet()v2
